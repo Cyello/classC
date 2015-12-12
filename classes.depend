@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1449886738 source:c:\users\marcelo\documents\c++\classes\main.cpp
+	<iostream>
+	"Conta.h"
+
+1449886819 c:\users\marcelo\documents\c++\classes\conta.h
+	<iostream>
+
